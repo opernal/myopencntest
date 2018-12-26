@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding/face_data.py=utf-8
+encoding/face_predict_use_keras.py=utf-8
+encoding/face_train_keras.py=utf-8
+encoding/load_face_dataset.py=utf-8
+encoding/recognize_face.py=utf-8
